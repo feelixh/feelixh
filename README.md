@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Bachelor in Computer Science from UNIJUÍ.
 - 🎓 &nbsp; Master's student in Mathematical and Computational Modeling at Unijuí.
-- 💼 &nbsp; Working as a Web Developer at [Compasso UOL](https://compassouol.com).
+- 💼 &nbsp; Working as a Magento 2 Developer at [Compasso UOL](https://compassouol.com).
 - 🌱 &nbsp; Learning more about Magento, Laravel, SKLearn, Machine Learning.
 - ⚡ &nbsp; Fact: I love e-commerce and Machine Learning.
 
